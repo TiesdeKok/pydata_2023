@@ -1,0 +1,490 @@
+{
+    "app_feedback": [
+        {
+            "i": 1,
+            "message": "The app is great, but it takes a while to load the main screen. Can you improve the performance?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 2,
+            "message": "I love the design and functionality, but I wish there was a dark mode.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 3,
+            "message": "The app often becomes unresponsive, especially when browsing through the product list. It's very frustrating.",
+            "mentions_performance": 1
+        },
+        {
+            "i": 4,
+            "message": "I appreciate the recent update, but please add more filter options when searching for items.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 5,
+            "message": "The app is slow to load images, which makes it hard to browse products efficiently. Otherwise, it's a great app!",
+            "mentions_performance": 1
+        },
+        {
+            "i": 6,
+            "message": "I'd like to see more in-depth product descriptions to make better purchasing decisions.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 7,
+            "message": "The app tends to freeze while I'm trying to check out. Can this issue be addressed?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 8,
+            "message": "I think the app could use more personalization options, like custom color schemes or avatars.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 9,
+            "message": "It's annoying when the app takes so long to process a payment. Can you improve the speed?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 10,
+            "message": "Please add a feature to create and share wish lists with friends and family.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 11,
+            "message": "I've been experiencing slow performance when trying to view my order history. It would be great if you could look into this.",
+            "mentions_performance": 1
+        },
+        {
+            "i": 12,
+            "message": "The app could benefit from a better recommendation system for products.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 13,
+            "message": "Navigating the app feels sluggish at times, especially when scrolling through large lists.",
+            "mentions_performance": 1
+        },
+        {
+            "i": 14,
+            "message": "The push notifications can be overwhelming; please add more settings to control their frequency.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 15,
+            "message": "Sometimes the app hangs when I try to update my profile info. Is there a way to fix this?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 16,
+            "message": "I'd love the ability to save items for later, even when I'm offline.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 17,
+            "message": "The loading times for opening and closing the app are slow. Can you work on optimizing this?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 18,
+            "message": "It would be great if you could add a barcode scanner to the app for easier price comparison.",
+            "mentions_performance": 0
+        },
+        {
+            "i": 19,
+            "message": "The app's performance drops significantly when I try to use the chat support feature. Can this be improved?",
+            "mentions_performance": 1
+        },
+        {
+            "i": 20,
+            "message": "I really like the app, but it would be nice to have a tutorial for first-time users to get familiar with the interface.",
+            "mentions_performance": 0
+        }
+    ],
+    "talks": [
+        {
+            "title": "Automated Machine Learning & Tuning with FLAML",
+            "abstract": "In this session, we will provide an in-depth and hands-on tutorial on Automated Machine Learning & Tuning with a fast python library named FLAML. We will start with an overview of the AutoML problem and the FLAML library. We will then introduce the hyperparameter optimization methods empowering the strong performance of FLAML. We will also demonstrate how to make the best use of FLAML to perform automated machine learning and hyperparameter tuning in various applications with the help of rich customization choices and advanced functionalities provided by FLAML. At last, we will share several new features of the library based on our latest research and development work around FLAML and close the tutorial with open problems and challenges learned from AutoML practice.",
+            "start_datetime": "Wednesday 2023-26-04 - 09:00 AM",
+            "speakers": "Li Jiang, Chi Wang, Qingyun Wu, Misha Desai"
+        },
+        {
+            "title": "Building an Interactive Network Graph to Understand Communities",
+            "abstract": "People are hard to understand, developers doubly so! In this tutorial, we will explore **how communities form** in organizations to develop a better solution than _\"The Org Chart\"_. We will walk through using a few key Python libraries in the space, develop a toolkit for Clustering Attributed Graphs (more on that later) and build out an extensible interactive dashboard application that promises to take your legacy HR reporting structure to the **next level**.",
+            "start_datetime": "Wednesday 2023-26-04 - 09:00 AM",
+            "speakers": "Lucas Durand"
+        },
+        {
+            "title": "Introduction to Ray for distributed and machine learning applications in Python",
+            "abstract": "This is an introductory and hands-on guided tutorial of Ray Core that covers an introductory and hands-on coding tour through the core features of Ray 2.0, which provides powerful yet easy-to-use design patterns for scaling compute and implementing distributed systems in Python. This tutorial includes a brief talk to give an overview of concepts, why and what Ray is, and how you write distributed Python applications and scale machine learning workloads. Setup instructions for your laptop To avoid wasting time doing it in class, please set up your laptops before coming to class. If you want to follow along and have hands-on experience, please follow instructions on how to set up your laptop with Ray. https://github.com/dmatrix/ray-core-tutorial#-setup-instructions-for-local-laptop-",
+            "start_datetime": "Wednesday 2023-26-04 - 09:00 AM",
+            "speakers": "Jules S. Damji"
+        },
+        {
+            "title": "Leveraging Text, Images, and the Kitchen Sink to solve complex ML problems in a few lines of code with AutoGluon",
+            "abstract": "[AutoGluon](https://auto.gluon.ai/) is an open source AutoML framework, developed by AWS. It can train models on multimodal image-text-tabular data with a few lines of code, producing a powerful multi-layer stack ensemble of transformer image models, BERT language models, and a suite of tabular models all working in tandem. This tutorial will give an overview of AutoGluon followed by a deep dive into how (and why) it has proven to be so effective, and finish with code examples to demonstrate how you can revolutionize your ML workflow.",
+            "start_datetime": "Wednesday 2023-26-04 - 09:00 AM",
+            "speakers": "Alexander Shirkov, Nick Erickson"
+        },
+        {
+            "title": "Building Machine Learning Microservices & MLOps using Union ML",
+            "abstract": "We aim to start the tutorial by giving a glimpse into the basics of machine learning in Python. And also set up some context into MLOps. This will be purely theoretical and delivered in a lecture format. Post this, we will focus on setting up UnionML and give a walkthrough of an end-to-end machine-learning example with the help of UnionML. This will be part theoretical and part student exercise. The learners will go through the step-by-step process as we cover this example.",
+            "start_datetime": "Wednesday 2023-26-04 - 11:00 AM",
+            "speakers": "Gaurav Pandey, Shivay Lamba"
+        },
+        {
+            "title": "Hands-on intro of ipyvizzu-story - a new, open-source charting tool to build, create and share animated data stories with Python in Jupyter",
+            "abstract": "Explaining and sharing the results of your analysis to a non-data-savvy audience can be much easier and considerably more fun when you can create an animated story of the charts containing your insights. In this tutorial, one of the creators of [ipyvizzu-story](https://github.com/vizzuhq/ipyvizzu-story) - a new open-source presentation tool that works within Jupyter Notebook and similar platforms - introduces their technology and helps the audience take their first steps in utilizing the power of animation in data storytelling.",
+            "start_datetime": "Wednesday 2023-26-04 - 11:00 AM",
+            "speakers": "Peter Vidos"
+        },
+        {
+            "title": "Fugue: Porting Existing Python and Pandas Code to Spark, Dask, and Ray",
+            "abstract": "When Pandas starts to become a bottleneck for data workloads, data practitioners seek out distributed computing frameworks such as Spark, Dask, and Ray. The problem is porting over existing code would take a lot of rewrites. Though drop-in replacements exist where you can just change the import statement, the resulting code is still attached to the Pandas interface, which is not a good grammar for a lot of distributed computing problems. In this tutorial, we will go over some scenarios where the Pandas interface can't scale, and we'll show how to port the existing code to distributed backend with minimal rewrites.",
+            "start_datetime": "Wednesday 2023-26-04 - 11:00 AM",
+            "speakers": "Kevin Kho, Anthony Holten"
+        },
+        {
+            "title": "Building Reliable, Open Lakehouses with Delta Lake",
+            "abstract": "Delta Lake: Building Reliable and Scalable Open Lakehouses",
+            "start_datetime": "Wednesday 2023-26-04 - 11:00 AM",
+            "speakers": "Jim Hibbard"
+        },
+        {
+            "title": "Build a production ML system with only Python on free serverless services",
+            "abstract": "We will build an end-to-end ML system to predict air quality that includes a feature pipeline to scrape new data and provide historical data (air quality observations and weather forecasts), a training pipeline to produce a model using the air quality observations and features, and a batch inference pipeline that updates a UI for Seattle. The system will be hosted on free serverless services - Modal, Hugging Face Spaces, and Hopsworks. It will be a continually improving ML system that keeps collecting more data, making better predictions, and provides a hindcast with insights into its historical performance.",
+            "start_datetime": "Wednesday 2023-26-04 - 01:30 PM",
+            "speakers": "JIm Dowling"
+        },
+        {
+            "title": "Being well informed: Building a ML Model Observability pipeline",
+            "abstract": "Model Observability is often neglected but plays a critical role in ML model lifecycle. Observability not only helps understand a ML model better, it removes uncertainty and speculation giving a deeper insight into some of the overlooked aspects during model development. It helps to answer the \"why\" narrative behind an observed outcome. In this tutorial, we will build a production quality Model Observability pipeline with open source python stack. ML engineers, Data scientists and Researchers can use this framework to further extend and develop a comprehensive Model Observability platform",
+            "start_datetime": "Wednesday 2023-26-04 - 01:30 PM",
+            "speakers": "Rajeev Prabhakar, Anindya Saha"
+        },
+        {
+            "title": "Introduction to Working with U.S. Census Data in Python",
+            "abstract": "[The United States Census Bureau](https://www.census.gov/) publishes over 1,300 data sets via its APIs. These are useful across a myriad of fields including data journalism, allocation of public and private resources, data activism, marketing and strategic planning across many sectors. In this tutorial, which is targeted at both beginners and those with some experience with census data, we will demonstrate how open-source Python tools can be used to discover, download, analyze, and generate maps of U.S. Census data. This tutorial will consider the full breadth and richness of data available from the U.S. Census. We will cover not only American Community Survey (ACS) and similarly well-known data sets, but also a number of data sets that are less well-know but nonetheless useful in a variety of research contexts. Through a series of hands-on demonstrations, attendees will learn to - discover data sets, some with a handful of variables and others with tens of thousands; - download demographic and economic indicators at levels ranging from the entire nation to individual neighborhoods; - plot the data we downloaded on maps; All Python tooling used in the workshop is available as open-source software. Final versions of the notebooks used in the tutorial will also be made available via open-source.",
+            "start_datetime": "Wednesday 2023-26-04 - 01:30 PM",
+            "speakers": "Darren Vengroff"
+        },
+        {
+            "title": "Flyte: Robust and End-to-End Cloud Native Machine Learning & Data Processing Platform",
+            "abstract": "As a data science and machine learning practitioner, you\u2019ll learn how Flyte, an open source data- and machine-learning-aware orchestration tool, is designed to overcome the challenges in building and maintaining ML models in production. You'll experiment with using Flyte to build ML pipelines with increasing complexity and scale!",
+            "start_datetime": "Wednesday 2023-26-04 - 01:30 PM",
+            "speakers": "Eduardo Apolinario"
+        },
+        {
+            "title": "Building a Semantic Search Engine",
+            "abstract": "Most production information retrieval systems are built on top of Lucene which use tf-idf and BM25. Current state of the art techniques utilize embeddings for retrieval. This workshop will cover common information retrieval concepts, what companies used in the past, and how new systems use embeddings. Outline: - Overview of search retrieval - Non deep learning based retrieval - Embeddings and Vector Similarity Overview - Serving Vector Similarity using Approximate Nearest Neighbors (ANN) By the end of the session, a participant will be able to build a production information retrieval system leveraging Embeddings and Vector Similarity using ANN. This will allow participants to utilize state of the art technologies / techniques on top of the traditional information retrieval systems.",
+            "start_datetime": "Wednesday 2023-26-04 - 03:30 PM",
+            "speakers": "Nidhin Pattaniyil"
+        },
+        {
+            "title": "Going beyond ChatGPT: an introduction to prompt engineering and LLMs",
+            "abstract": "Learn how to use large language models like GPT to automate data-related tasks and make your work more efficient using tools like LangChain. This tutorial covers the basics of prompt engineering and LLMs, provides a step-by-step guide on getting started, and discusses tips & tricks for successful automation.",
+            "start_datetime": "Wednesday 2023-26-04 - 03:30 PM",
+            "speakers": "Ties de Kok"
+        },
+        {
+            "title": "skbase - a workbench for creating scikit-learn like parametric objects and libraries",
+            "abstract": "skbase provides a meta-toolkit that makes it easy to build your own package that follows scikit-learn design patterns, e.g., parametric composable objects, and fittable objects. It contains a standalone BaseObject/BaseEstimator base class, base class templates to write your own base classes, templateable test classes and object checks, object retrieval and inspection, and more.",
+            "start_datetime": "Wednesday 2023-26-04 - 03:30 PM",
+            "speakers": "Franz Kiraly"
+        },
+        {
+            "title": "Panel: \u201cBuilding a Stronger Open Source Python Data Community: Trends, Gaps, and Collaborative Contributions\u201d",
+            "abstract": "Expert on the field of software will share their stories in their journey of building a strong open source Python data community.",
+            "start_datetime": "Wednesday 2023-26-04 - 03:30 PM",
+            "speakers": "Hamel Husain, Stefan Krawczyk, Katrina Riehl, Juanita Gomez, Zander Matheson"
+        },
+        {
+            "title": "Keynote: Scientific Computing and the Gateway to Open Source",
+            "abstract": "Over the last decade, we have seen innumerable advancements in the scientific community due to the shift toward collaborative, open science. We've learned, as a community, we must work together in order to build the next generation of scientific innovation. The history of the scientific computing ecosystem is intricately tied to its open source initiatives. One cannot succeed without the other. In this talk, we'll review how the NumFOCUS organization contributes to the support, sustainability, and diversity of a vibrant scientific open source community. We will walk you through where we've been, where we are going, and the lessons we've learned along the way.",
+            "start_datetime": "Thursday 2023-27-04 - 09:00 AM",
+            "speakers": "Katrina Riehl"
+        },
+        {
+            "title": "A Perfect, Infinite-Precision, Game Physics in Python",
+            "abstract": "This fun and visual talk shows how to create a perfect (but impractical) physics engine in Python. The key is Python\u2019s SymPy, a free package for computer algebra. The physics engine turns parts of physics, mathematics, and even philosophy into Python programming. We\u2019ll learn about: * Simulating 2-D Newtonian physics such as Newton\u2019s Cradle and the two-ball drop * Having the computer solve math problems too hard for us to personally solve * The surprising (even to physicists) non-determinism of a billiards break * Thoughts on making the simulator more practical If you are an enthusiast interested in what Python can do in other fields, or an expert interested in the limits of simulation and programming, this talk is for you!",
+            "start_datetime": "Thursday 2023-27-04 - 10:15 AM",
+            "speakers": "Carl Kadie"
+        },
+        {
+            "title": "Plant a Touch-Me-Not: Train Models Without Anyone Touching Your Data with Flower",
+            "abstract": "In the world of machine learning, more data and diverse data sets usually leads to better training, particularly with human centered products such as self-driving cars, IOT devices and medical applications. However, privacy and ethical concerns can make it difficult to effectively leverage many different datasets, particularly in medical and legal services. How can a data scientist or machine learning engineer leverage multiple data sources to train a model without centralizing the data in one place? How can one benefit from multiple datasets without the hassle of breaching data privacy and security?",
+            "start_datetime": "Thursday 2023-27-04 - 10:15 AM",
+            "speakers": "Krishi Sharma"
+        },
+        {
+            "title": "Quantifying Uncertainty in Time Series Forecasting with Conformal Prediction",
+            "abstract": "This talk will examine the use of conformal prediction in the context of time series analysis. The presentation will highlight the benefits of using conformal prediction to estimate uncertainty and demonstrate its application using open source python libraries for statistical, machine learning, and deep learning models (https://github.com/Nixtla).",
+            "start_datetime": "Thursday 2023-27-04 - 10:15 AM",
+            "speakers": "Federico Garza Ramirez, Max Mergenthaler"
+        },
+        {
+            "title": "Replacing Proprietary SaaS with Open-Source: Building a Marketing Analytics Web App with Python",
+            "abstract": "This talk presents a case-study of replacing a proprietary marketing analytics platform with a dashboard and web app created using the Python data ecosystem. The app will provide the analytics features found in popular paid alternatives in an accessible web interface, and demonstrates how data science teams can be empowered to create and deploy applications which have distinct advantages over commercial alternatives.",
+            "start_datetime": "Thursday 2023-27-04 - 10:15 AM",
+            "speakers": "Leo Anthias"
+        },
+        {
+            "title": "The Continuous Improvement Journey: How Data Science Complements the Six Sigma Methodology in Manufacturing",
+            "abstract": "Six Sigma is a proven, data-driven methodology for continuous improvement, and data science is a relatively new field with exciting potential. Together, both go hand in hand to help organizations search for truth in data to improve their processes. The use of data science in the manufacturing industry is redefining industrial precision when paired with Six Sigma.",
+            "start_datetime": "Thursday 2023-27-04 - 11:00 AM",
+            "speakers": "Eloisa Elias Tran"
+        },
+        {
+            "title": "Untangling the complexity of demand forecasting models: building a Market Simulator",
+            "abstract": "Join us as we take a deep dive into the intricacies of our design process toward creating a demand simulator in Python. In this talk, we will discuss our modeling choices for both the demand and the market. We will also share how developing a simulator can help understand how models learn and adapt to changing realities and conditions. The demand simulator has been essential in our efforts to continuously improve our strategies and provide the best demand forecasting models. Staying competitive in a tough market requires conducting research, and we hope to inspire others by showing what can be achieved.",
+            "start_datetime": "Thursday 2023-27-04 - 11:00 AM",
+            "speakers": "Pablo Alfaro"
+        },
+        {
+            "title": "The Importance of Synthetic Data in Data-Centric AI",
+            "abstract": "This talk covers the importance of synthetic data for the adoption and development of Data-Centric AI approaches. We\u2019ll cover how generative models can be used to mimic real-world domains through the generation of synthetic data and demonstrate their application using the open-source python package, ydata-synthetic. For this talk, we\u2019ll focus on tabular data and discuss the impact of synthetic data on different industries such as healthcare and finance. Finally, we\u2019ll explain how to validate the quality of the synthetic data generated, depending on the downstream application - privacy-preserving and ML as an ML performance booster.",
+            "start_datetime": "Thursday 2023-27-04 - 11:00 AM",
+            "speakers": "Fabiana Clemente"
+        },
+        {
+            "title": "Shiny: Data-centric web applications in Python",
+            "abstract": "Shiny is a web framework that is designed to let you create data dashboards, interactive visualizations, and workflow apps in pure Python or R. Shiny doesn't require knowledge of HTML, CSS, and JavaScript, and lets you create data-centric applications in a fraction of the time and effort of traditional web stacks. Of course, Python already has several popular and high-quality options for creating data-centric web applications. So it's fair to ask what Shiny can offer the Python community. In this talk, I will introduce Shiny for Python and answer that question. I'll start with some basic demos that show how Shiny apps are constructed. Next, I'll explain Transparent Reactive Programming (TRP), which is the animating concept behind Shiny, and the reason it occupies such an interesting place on the ease-vs-power tradeoff frontier. Finally, I'll wrap up with additional demos that feature interesting functionality that is made trivial with TRP. This talk should be interesting to anyone who uses Python to analyze or visualize data, and does not require experience with Shiny or any other web frameworks.",
+            "start_datetime": "Thursday 2023-27-04 - 11:00 AM",
+            "speakers": "Joe Cheng"
+        },
+        {
+            "title": "Experimentation and the gold standard of data champions",
+            "abstract": "We will discuss industry best practices for leveraging experimentation by product development teams. We'll cover how to make advanced statistics accessible so that cross-functional stakeholders can translate results into action. We'll also share the secrets for scaling experimentation to thousands of simultaneous experiments, an achievable goal for teams of any size.",
+            "start_datetime": "Thursday 2023-27-04 - 11:45 AM",
+            "speakers": "Timothy Chan, PhD"
+        },
+        {
+            "title": "Data Mapping for Data Exploration",
+            "abstract": "As embeddings and and vector databases become ever more popular we need to develop new tools for exploratory data analysis. One such approach is interactive data maps -- using 2D map style representations of the data, combined with rich interactivity that can link back to the source data. We'll look at the open source tools available for building interactive data maps, and work through an example use case.",
+            "start_datetime": "Thursday 2023-27-04 - 11:45 AM",
+            "speakers": "Leland McInnes"
+        },
+        {
+            "title": "Ibis: Because SQL is everywhere but you don't want to use it",
+            "abstract": "We love to use Python in our day jobs, but that enterprise database you run your ETL job against may have other ideas. It probably speaks SQL, because SQL is ubiquitous, it\u2019s been around for a while, it\u2019s standardized, and it\u2019s concise. But is it really standardized? And is it always concise? No! Do we still need to use it? Probably! What\u2019s a data-person to do? String-templated SQL? print(f\u201dThat way lies {{ m\u0334\u030f\u0301\u0355\u0330\u0345\u033ba\u0338\u0351\u031f\u031c\u0349d\u0335\u0311\u0328\u032bn\u0335\u0312\u0351\u033e\u0316\u0332e\u0338\u034c\u0318\u033c\u032ds\u0335\u033d\u0347\u0316\u031cs\u0338\u0357\u034c\u030f\u030a\u0332\u035c\u0322\u0316 }}\u201d.) Instead, come and learn about Ibis! It offers a dataframe-like interface to construct concise and composable queries and then executes them against a wide variety of backends (Postgres, DuckDB, Spark, Snowflake, BigQuery, you name it.).",
+            "start_datetime": "Thursday 2023-27-04 - 11:45 AM",
+            "speakers": "Gil Forsyth, Phillip Cloud"
+        },
+        {
+            "title": "Scaling Altair visualizations with VegaFusion",
+            "abstract": "Altair is a popular Python visualization library that makes it easy to build a wide variety of statistical charts. On its own, Altair is unsuitable for visualizing large datasets (more than a few thousand rows) because it requires transferring the entire dataset to the browser for data processing and rendering. VegaFusion integrates with Altair to overcome this limitation by automatically moving data intensive calculations from the browser to the Python kernel. With VegaFusion, many Altair charts easily scale to millions of rows, significantly increasing the utility of Altair throughout the PyData ecosystem.",
+            "start_datetime": "Thursday 2023-27-04 - 11:45 AM",
+            "speakers": "Jon Mease"
+        },
+        {
+            "title": "Keynote: Distributed Computing 4 Kids -- with Spark (and guest appearances from Ray and Dask)",
+            "abstract": "Distributed Computing is a lot of fun, so why don't we share it with our kids? Are you tired of kind of \"hand waving\" explanations of what you've been doing at work? In this talk we'll explore how to teach children about distributed computing (mostly data parallel) along with a little bit of Spark. We'll then talk about how we'll expand to teaching concepts like \"actors\" and \"non-data-parallelism\" to children. You don't need to have kids to enjoy this talk! Come for the gnome filled slides, stay for the thinking about how to explain your work to people outside of your field.",
+            "start_datetime": "Thursday 2023-27-04 - 01:30 PM",
+            "speakers": "Holden Karau"
+        },
+        {
+            "title": "Let\u2019s program to fight the impacts of climate change!",
+            "abstract": "As the impact of climate change has gradually presented itself in our daily lives, we have to take actions to mitigate its effects. United Nations SDGs goal is to reach net-zero carbon dioxide(CO2) emissions by 2050. To meet this goal, we can start to reduce CO2 emission from daily programming and computing usage. Have you understand the amount of CO2 emission from a Pytorch-based deep learning model? Do you know how to choose the optimal hardware and cloud computing resources to reduce training time and energy, in order to eliminate CO2 emission? This talk will share the state of art calculator software and cloud usage approaches via different regions and time scales to save our planet.",
+            "start_datetime": "Thursday 2023-27-04 - 02:45 PM",
+            "speakers": "Ying-Jung Chen"
+        },
+        {
+            "title": "Jupyter AI \u2014 Bringing Generative AI to Jupyter",
+            "abstract": "Jupyter AI is a new open source Jupyter extension that enables end users to perform a wide range of common tasks using generative AI models in JupyterLab, Jupyter Notebook, and IPython. Jupyter AI provides an IPython magic interface that allows users to easily experiment with multiple models and leverage them inside of notebooks to debug failing cells, generate code, and answer questions. In a notebook context, Jupyter AI magics offer users two additional features: 1) a reproducible and shareable artifact for model invocation, and 2) a visual experience for exploring model output in different formats such as Markdown, LaTeX, JSON, image formats, and more. Jupyter AI also provides a chat UI through a JupyterLab extension that allows users to interact with a model conversationally. The chat UI also allows users to include selections with the prompt, or replace selections with generated output. Furthermore, Jupyter AI is vendor-neutral and supports models from AI21, Anthropic, AWS Bedrock, Cohere, OpenAI, and more right out-of-the-box. Jupyter AI fills a need for a modular and extensible framework for integrating AI models into Jupyter.",
+            "start_datetime": "Thursday 2023-27-04 - 02:45 PM",
+            "speakers": "David Qiu"
+        },
+        {
+            "title": "Managing a search engine for over 600 million openly licensed media records",
+            "abstract": "Have you ever wanted to add an image or audio track to your blog, but don\u2019t want to copy something off Google Images without attribution? Or wanted to remix a song? Create some art using images with the express consent of the original creator? Openverse (wp.org/openverse and openverse.org) is a search engine for openly licensed media with over 600 million indexed image & audio files. Openverse can help you find this content, and give appropriate attribution for it. Managing this much data from over 30 disparate sources can be a challenge. We'll talk about how we identify, aggregate, and index CC licensed data across the web to make it accessible from a single search engine.",
+            "start_datetime": "Thursday 2023-27-04 - 02:45 PM",
+            "speakers": "Madison Swain-Bowden"
+        },
+        {
+            "title": "How to build stunning Data Science Web applications in Python with Taipy",
+            "abstract": "We will present **Taipy, a new low-code Python package** that allows you to create complete Data Science applications, including graphical visualization and managing algorithms, pipelines, and scenarios. It is composed of two main independent components: - **Taipy Core** - **Taipy GUI**. In this talk, participants will learn how to use the following: - Taipy Core to create **scenarios**, use models, retrieve metrics easily, version control their application configuration, - Taipy GUI to create an **interactive and powerful user interface in a few lines of code**. - Taipy Studio, a brand-new pipeline graphical editor inside VS Code, also facilitates the creation of scenarios and pipelines. They will be used to build a complete interactive AI application where the end user can explore data and execute pipelines (make predictions) from within the application. With Taipy, the Python developer can transform simple pilots into **production-ready end-user** applications. Taipy GUI goes way beyond the capabilities of the standard graphical stack: Gradio, Streamlit, Dash, etc. Similarly, Taipy Core is **simpler yet more powerful** than the standard Python back-end stack.",
+            "start_datetime": "Thursday 2023-27-04 - 02:45 PM",
+            "speakers": "Florian Jacta, Vincent Gosselin"
+        },
+        {
+            "title": "Computer Vision Landscape at Chegg: Present and Future",
+            "abstract": "Millions of people all around the world Learn with Chegg. Education at Chegg is powered by the depth and diversity of the content that we have. A huge part of our content is in form of images. These images could be uploaded by students or by content creators. Images contain text that is extracted using a transcription service. Very often uploaded images are noisy. This leads to irrelevant characters or words in the transcribed text. Using object detection techniques we develop a service that extracts the relevant parts of the image and uses a transcription service to get clean text. In the first part of the presentation, I will talk about building an object detection model using YOLO for cropping and masking images to obtain a cleaner text from transcription. YOLO is a deep learning object detection and recognition modeling framework that is able to produce highly accurate results with low latency. In the next part of my presentation, I will talk about the building the Computer Vision landscape at Chegg. Starting from images on academic materials that are composed of elements such as text, equations, diagrams we create a pipeline for extracting these image elements. Using state of the art deep learning techniques we create embeddings for these elements to enhance downstream machine learning models such as content quality and similarity.",
+            "start_datetime": "Thursday 2023-27-04 - 03:30 PM",
+            "speakers": "Sanghamitra Deb"
+        },
+        {
+            "title": "Diversity Panel: Allyship is a journey, not a destination",
+            "abstract": "What allies can do to support diversity and inclusion in the workplace. A conversation of personal experiences in the field of data science.",
+            "start_datetime": "Thursday 2023-27-04 - 03:30 PM",
+            "speakers": "Eloisa Elias Tran"
+        },
+        {
+            "title": "Docker and Dev Containers and Data Science, oh my!",
+            "abstract": "\"But it worked on machine\" is one the most frustrating lines to hear when collaborating on a project. Creating and configuring reproducible environments is a major part of modern software development and had led to the popularity of tools like Docker to specify where and how code runs. Setting up Docker and Development Containers in VS Code make it easy to configure not only the where the code runs, but also the developer workspace. Setting up these tools can reduce effort for maintainers of OSS projects, bootstrap contributors, and make running events like workshops or sprints go more smoothly.",
+            "start_datetime": "Thursday 2023-27-04 - 03:30 PM",
+            "speakers": "Sarah Kaiser"
+        },
+        {
+            "title": "Don\u2019t let your data model `drift` away!",
+            "abstract": "Experimenting, building a model, and putting it into production takes a long time. The time difference might range from months to years. The distribution of data may vary throughout this time gap, resulting in differences between the data used to train and create the model and the data that the model encounters in the production environment. The performance of models degrades over time as a result of this drift, resulting in weak and declining predictive performance in predictive models. This is a typical occurrence, but it is a significant problem in performance-critical Machine Learning systems. Today's data is changing and evolving at a breakneck speed. It's critical to keep up with shifting data if you require high-performance models. As a result, it's critical to spot the point in production where your data diverges from the one it was trained on. Learn how these drifts affect our machine learning models and how to track and assess them in Python so that the model remains relevant in production and makes fair and unbiased predictions over time.",
+            "start_datetime": "Thursday 2023-27-04 - 03:30 PM",
+            "speakers": "Neeraj Pandey"
+        },
+        {
+            "title": "MLOps Deployment Patterns with Delta Lake and MLflow",
+            "abstract": "Would you be better off deploying an ML model or the code that generates the model? This talk, targeted to practitioners, covers different deployment patterns for machine learning applications. Beyond introducing these patterns, we\u2019ll discuss the downstream implications of each with respect to reproducibility, audit tracing, and CI/CD. To demonstrate solution driven architecture, we\u2019ll lean on Delta and MLflow as core technologies to track lineage and manage the deployment strategy. The goal of this session is to empower practitioners to design efficient, automated, and robust machine learning systems.",
+            "start_datetime": "Thursday 2023-27-04 - 04:15 PM",
+            "speakers": "Mary Grace Moesta"
+        },
+        {
+            "title": "Publishing Jupyter Notebooks with Quarto",
+            "abstract": "Quarto is a multi-language, open-source toolkit for creating data-driven websites, reports, presentations, and scientific articles. Quarto is built on Jupyter, and in this talk we'll demonstrate using Quarto to publish Jupyter notebooks as production quality websites, books, blogs, presentations, PDFs, Office documents, and more. We'll also cover how to publish notebooks within existing content management systems like Hugo, Docusaurus, and Confluence. Finally, we'll explore how Quarto works under the hood along with how the system can be extended to accommodate unique requirements and workflows.",
+            "start_datetime": "Thursday 2023-27-04 - 04:15 PM",
+            "speakers": "J.J. Allaire"
+        },
+        {
+            "title": "Enterprise-grade Full Stack ML Platform: why human-centricity matters?",
+            "abstract": "There is a pressing need for tools and workflows that meet data scientists where they are: how to enable an organization of data scientists, who may not have formal training as software engineers, to build and deploy end-to-end machine learning workflows and applications independently. We wanted to provide the best possible user experience for data scientists, allowing them to focus on the parts of the ML stack where they can deliver the most value (such as modeling using their favorite off-the-shelf libraries) while providing secure & robust built-in solutions for the underlying infrastructure (including data, compute, orchestration, and versioning). In this talk, we discuss the problem space, our enterprise-scale challenges at Dell, and the approach we took to solving it with Metaflow, the open-source ML platform developed at Netflix, & Outerbounds.",
+            "start_datetime": "Thursday 2023-27-04 - 04:15 PM",
+            "speakers": "savin goyal, Thiagarajan Ramakrishnan"
+        },
+        {
+            "title": "Keynote: Travis Oliphant",
+            "abstract": "Keynote: Travis Oliphant",
+            "start_datetime": "Friday 2023-28-04 - 09:00 AM",
+            "speakers": "Travis Oliphant"
+        },
+        {
+            "title": "Python Anytime, Anywhere with Anaconda Notebooks",
+            "abstract": "Do you wish there was an easier way to get started with Python? Cloud notebook services in general enable you to start coding in Python immediately\u2014anytime and anywhere you have an internet connection. Don\u2019t worry about setting up environments; with cloud notebooks, you can get started without any installation. Spin up your awesome data science projects directly from your browser with all the packages and computing power you need. In this talk, I\u2019ll show you how to use Anaconda Notebooks to quickly get started with Python in the cloud. Anaconda Notebooks is a managed Jupyter notebook service that enables you to quickly get coding anywhere without installing anything. Empowered by Intake, a data catalog library, Anaconda Notebooks offers a simple and consistent user interface for loading data, regardless of its format or location. All the data knowledge is consolidated in one place! What\u2019s more? Pre-loaded with HvPlot, Panel, and many other data science packages, Anaconda Notebooks allows you to deploy your data visualization dashboards or data apps with only a few lines of code.",
+            "start_datetime": "Friday 2023-28-04 - 10:15 AM",
+            "speakers": "Sophia Yang"
+        },
+        {
+            "title": "Deep Learning Model Interpretability for Computer Vision based Models",
+            "abstract": "Applied Deep Learning to computer vision has become very popular in the last decade. Many real-world problems related to detection and recognition are being solved by using popular open-source models. Many problems are very specific and off-the-shelf models do not work as it is. These models have to be trained with custom data to perform specific tasks. While training these models apart from empirical information related to training performance, there s no way to interpret the results from the deep learning models. In this talk, I will talk about various ways that we can use to interpret results visually for deep learning models.",
+            "start_datetime": "Friday 2023-28-04 - 10:15 AM",
+            "speakers": "Sumedh Datar"
+        },
+        {
+            "title": "Growing the open source quantum ecosystem",
+            "abstract": "In this talk we will give a brief overview of quantum computing before delving into the ecosystem as it relates to open-source python software. We\u2019ll discuss the growing community that is building the infrastructure that will power quantum computing and explain how Unitary Fund is helping to fill the gaps in the field.",
+            "start_datetime": "Friday 2023-28-04 - 10:15 AM",
+            "speakers": "Nate  Stemen"
+        },
+        {
+            "title": "Scaling data workloads using the best of both worlds: pandas and Spark",
+            "abstract": "It is indisputable that pandas is oftentimes the keystone element in any data wrangling and analysis workloads. However, the challenge is that pandas is not meant for big data processing. This presents data practitioners a dilemma: should we downsample data and lose information? Or should we explore a distributed processing framework to scale out data workloads? An example of a mainstream distributed processing tool is Apache Spark. However, this means data practitioners now have to learn a new language, PySpark. Not all is bleak though: pandas API on Spark provides pandas equivalent APIs in PySpark. It allows pandas users to transition from single-node to distributed environment, by just simply swapping the pandas package with pyspark.pandas. On the other hand, existing PySpark users may wish to write their own custom user-defined functions (UDFs) that are not included in existing PySpark API. Pandas Function APIs, newly included in Spark 3.0+, allow users to apply arbitrary Python native functions, with pandas instances as the input and output against a PySpark dataframe. For instance, data scientists could use pandas function API to train a ML model based on each group of data using a single line of code. Co-presented by both a top open-source Apache Spark commiter and a hands-on data science consultant, this talk equips data analysts and scientists with the knowledge of scaling their data analysis workloads with implementation details and best practice guidance. Working knowledge of pandas, basic Spark, and machine learning is helpful.",
+            "start_datetime": "Friday 2023-28-04 - 10:15 AM",
+            "speakers": "Chengyin Eng, Hyukjin Kwon"
+        },
+        {
+            "title": "Open Source meets Enterprise: The right way.",
+            "abstract": "Have you ever wondered how Open Source projects are impacted as Enterprise companies start being actively involved in maintenance? In this talk, we will go over the case of Dask and Coiled and share the results of this symbiotic relationship.",
+            "start_datetime": "Friday 2023-28-04 - 11:00 AM",
+            "speakers": "Naty Clementi"
+        },
+        {
+            "title": "U-Net-style neural networks for feature identification in 1D time-series: applications in pipeline inspection, medicine, and more",
+            "abstract": "This talk will present U-Net-style networks for discrete feature identification in one dimensional time-series data. We will present applications of this technique for identification of pipe joints in oil & gas and water pipeline inspection data, abnormal heart rhythms in EKG signals, and airport runway deflections. This lighthearted, hands-on, talk is for data science practitioners and their immediate supervisors.",
+            "start_datetime": "Friday 2023-28-04 - 11:00 AM",
+            "speakers": "Michael Byington"
+        },
+        {
+            "title": "You Want to Buy This - Particle Swarm Classification for Next-Gen Recommendation Engines",
+            "abstract": "Case study that describes how a scrappy science and engineering team built an optimal recommendations engine for consumer banking and FinTech mobile app users. The engine produces high-response, tailored end-user results from anonymized and incomplete data, the application of quantum particle swarm optimization techniques, and by leveraging a homegrown knowledge representation graph.",
+            "start_datetime": "Friday 2023-28-04 - 11:00 AM",
+            "speakers": "Eugene Ciurana"
+        },
+        {
+            "title": "Trust Fall: Hidden Gems in MLFlow that Improve Experiment Reproducibility",
+            "abstract": "When it comes to data driven projects, verifying and trusting experiment results is a particularly grueling challenge. This talk will explore both how we can use Python to instill confidence in performance metrics for data science experiments and the best way to keep experiments versioned to increase transparency and accessibility across the team. The tactics demonstrated will help data scientists and machine learning engineers save precious development time and increase transparency by incorporating metric tracking early on.",
+            "start_datetime": "Friday 2023-28-04 - 11:00 AM",
+            "speakers": "Krishi Sharma"
+        },
+        {
+            "title": "Indian Sign Language Recognition(ISLAR)",
+            "abstract": "Sample this \u2013 two cities in India; Mumbai and Pune, though only 80kms apart have a distinctly varied spoken dialect. Even stranger is the fact that their sign languages are also distinct, having some very varied signs for the same objects/expressions/phrases. While regional diversification in spoken languages and scripts are well known and widely documented, apparently, this has percolated in sign language as well, essentially resulting in multiple sign languages across the country. To help overcome these inconsistencies and to standardize sign language in India, I am collaborating with the Centre for Research and Development of Deaf & Mute (an NGO in Pune) and Google. Adopting a two-pronged approach: a) I have developed an Indian Sign Language Recognition System (ISLAR) which utilizes Artificial Intelligence to accurately identify signs and translate them into text/vocals in real-time, and b) have proposed standardization of sign languages across India to the Government of India and the Indian Sign Language Research and Training Centre.",
+            "start_datetime": "Friday 2023-28-04 - 11:45 AM",
+            "speakers": "Akshay Bahadur"
+        },
+        {
+            "title": "Scaling MLOps to support dozens of analytics teams",
+            "abstract": "In this talk, we will present best practices and case studies on building ML platforms with a focus on scalability and the simplicity of user onboarding. We will demonstrate how ML operations can be efficiently scaled from scratch to dozens of teams using templatization and other techniques.",
+            "start_datetime": "Friday 2023-28-04 - 11:45 AM",
+            "speakers": "Ilya Katsov"
+        },
+        {
+            "title": "The Python Data Ecosystem: Navigating a fragmented landscape.",
+            "abstract": "The Python data landscape is constantly evolving and has become increasingly fragmented, making it difficult for data teams to navigate and pick the right tools and evolve existing tools as needs evolve. With so many options available, how can teams optimize their decisions? And more importantly, how can they ensure that the tools they choose will prevent frequent tool changes down the road? This talk will serve as a guide for those who are overwhelmed by the current state of data tools.",
+            "start_datetime": "Friday 2023-28-04 - 11:45 AM",
+            "speakers": "Ketan Umare, Yee Tong"
+        },
+        {
+            "title": "How to incrementally scale existing workflows on Spark, Dask or Ray?",
+            "abstract": "Using Spark, Dask, or Ray is not an all-or-nothing thing. It may seem daunting for new practitioners expecting to translate existing Pandas pipelines to these big data frameworks. In reality, distributed computing can be incrementally adopted. There are many use cases where only one or two steps of a pipeline require expensive computation. This talk covers the strategies and best practices around moving portions of workloads to distributed computing through the open-source Fugue project. The Fugue API has a suite of standalone functions compatible with Pandas, Spark, Dask, and Ray. Collectively, these functions allow users to scale any part of their pipeline when ready for full-scale production workloads on big data.",
+            "start_datetime": "Friday 2023-28-04 - 11:45 AM",
+            "speakers": "Han Wang, Jun Liu"
+        },
+        {
+            "title": "Keynote: Peter Wang",
+            "abstract": "Peter Wang Keynote",
+            "start_datetime": "Friday 2023-28-04 - 01:30 PM",
+            "speakers": "Peter Wang"
+        },
+        {
+            "title": "Python in Bioinformatics",
+            "abstract": "Python is used all over the place in Bioinformatics. In this talk, I'll highlight three areas of interest: 1. _Informatic Jobs_ how does raw sequencing data turn into variant calls? There's often some Python shepherding the the underlying tools (often CLI tools) 2. _ML Models_ large language models are getting very good generally, e.g. Codex. Similar models are making nacent progress in Biology, e.g. ESM by meta 3. _Munging_ the lovely tasks that're relevant to every field, but how to do it is normally tacit within the field. The same is true for Bioinformatics.",
+            "start_datetime": "Friday 2023-28-04 - 02:15 PM",
+            "speakers": "Trent  Hauck"
+        },
+        {
+            "title": "Notebooks as Serverless Functions",
+            "abstract": "Jupyter notebooks are a wonderful environment to write code for both beginners and experienced individuals. The hard part comes when you want to take your notebook and productionize it. That's where Jupyrest can help. Jupyrest is a tool that can turn Jupyter notebooks into HTTP functions. It's a serverless platform for Jupyter notebooks. Jupyrest empowers data scientists and notebook authors to deploy scalable and reliable web APIs without having to leave the comfort of their favorite notebook editor.",
+            "start_datetime": "Friday 2023-28-04 - 02:15 PM",
+            "speakers": "Koushik Krishnan"
+        },
+        {
+            "title": "Explaining Explainable AI tools : Issues, Pitfalls and Cautionary tails",
+            "abstract": "Over the past few years, Explainable AI has become one of the most rapidly rising areas of research and tooling due to the increased proliferation of ML/AI models in critical systems. There are some methods that have emerged as clear favourites and are widely used in industry to get a sense of understanding of complex models. However, they are not perfect and often mislead practitioners with a false sense of security. In this talk, we look at the popular methods and illustrate when they fail, how they fail and why they fail.",
+            "start_datetime": "Friday 2023-28-04 - 02:15 PM",
+            "speakers": "Aditya Lahiri"
+        },
+        {
+            "title": "Nine Rules for Writing Python Extensions in Rust",
+            "abstract": "Python extensions let you speed up your code by calling fast code written in other languages. Traditionally, you would write your extensions in C/C++. Rust offers an alternative to C/C++ with these benefits: * As fast as C/C++ * Much better memory safety and security than C/C++ * Most loved programming language since 2016 * Multithreading without needing a runtime In this talk, we\u2019ll cover nine rules that I learned as I ported our open-source genomics extension from C++ to Rust. This will help you get started and help you organize your project. If you\u2019re a seasoned extension writer frustrated with C/C++, or a beginner looking to write your first extension, this talk is for you!",
+            "start_datetime": "Friday 2023-28-04 - 02:15 PM",
+            "speakers": "Carl Kadie"
+        },
+        {
+            "title": "From prototype to deployment: Increase productivity and simplify data operations in Python",
+            "abstract": "Designing ML pipelines is a complex process involving numerous changes along the way, from a prototype to deployment. It frequently involves iterating over multiple models on a smaller scale and then converting those models to run at scale. In this talk we will discuss the inefficiencies of this process and present a modern open source based solution that helps to mitigate many of these inefficiencies. The proposed tools and approaches help data scientists, data engineers, and machine learning engineers work more efficiently across all ranges of tasks and reduce the time-to-solution. We also present future development plans.",
+            "start_datetime": "Friday 2023-28-04 - 03:00 PM",
+            "speakers": "Tom Drabas"
+        },
+        {
+            "title": "Geo-Unleashed: How Apache Sedona is Revolutionizing Geospatial Data Analysis",
+            "abstract": "Apache Sedona is a cluster computing system designed to revolutionize the way we process large-scale spatial data. By extending the capabilities of existing systems such as Apache Spark, and Apache Flink, Sedona provides a comprehensive set of out-of-the-box distributed Spatial Datasets and Spatial SQL that enable efficient loading, processing, and analysis of massive amounts of spatial data across multiple machines. With its ability to handle big data at scale, Sedona has the potential to transform industries. In this presentation, we will delve into the key features of Apache Sedona and showcase its powerful capabilities in handling large-scale spatial data. Additionally, we will highlight the recent developments in Apache Sedona and how they have further enhanced the system's performance and scalability. We will also showcase examples of how Sedona has been used in various industries such as transportation, logistics, and geolocation-based services, to gain insights and improve decision-making.",
+            "start_datetime": "Friday 2023-28-04 - 03:00 PM",
+            "speakers": "Jia Yu"
+        },
+        {
+            "title": "Combining IPython with Open Source Papermill, Origami, and Genai to enhance your Jupyter Notebook experience",
+            "abstract": "In this talk we will look at how to use the Open Source Libraries papermill, origami, and genai linking IPython with LLMs (such as GPT-X) to build data projects data from A to Z with natural language only. In this talk will look at how to use the Open Source library papermill to link with Noteable's enterprise platform and iterate, refresh, and share data outcomes with rich visualizations against scaling sources. If you do any data engineering, or support data engineering efforts this talk will show some tools available in the market and how open source solutions can be adapted to make use of those capabilities.",
+            "start_datetime": "Friday 2023-28-04 - 03:00 PM",
+            "speakers": "Pierre Brunelle"
+        },
+        {
+            "title": "Panel: The living nature of data: exploring the Lifecycle and Management of Data at Scale",
+            "abstract": "As we continue to witness the exponential growth of data generation, especially with the proliferation of IoT devices, widespread deploy of LLMs, and synthetic data, it is essential to understand the dynamic nature of data and its lifecycle. This panel will delve into the living nature of data, exploring its various stages, from creation to effective processing, augmentation, and beyond: we will discuss tools, experiences and trends to look out for in 2023.",
+            "start_datetime": "Friday 2023-28-04 - 03:00 PM",
+            "speakers": "Alan Descoins, Fabiana Clemente, Yucheng Low"
+        },
+        {
+            "title": "Emerging Open Source Tech Stack for Large Language Models (LLMs) with Ray AI Runtime",
+            "abstract": "Are you interested in learning about the emerging open source stack for Large Language Models (LLMs)? LLMs have gained immense popularity in recent months and require scalable solutions to overcome challenges they present in terms of data ingestion, training, fine-tuning, batch (offline) inference, and online serving. However, LLM-type workloads share some common challenges with other types of large scale ML use cases. Let\u2019s explore the current state of Generative AI and LLMs and have a closer look at the emerging (yet still early) open source tech stack for this workload. Then we will evaluate how Ray AI Runtime provides a scalable compute substrate, addressing orchestration and scalability problems. Finally, we will demonstrate how you can implement distributed fine-tuning and batch (offline) inference with HuggingFace and Ray AI Runtime, using recent Google\u2019s Flan-T5 model and Alpaca dataset.",
+            "start_datetime": "Friday 2023-28-04 - 03:00 PM",
+            "speakers": "Kamil Kaczmarek"
+        }
+    ]
+}

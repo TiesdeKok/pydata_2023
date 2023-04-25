@@ -1,0 +1,38 @@
+## Remove ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+## Hide untitled files
+[Uu]ntitled*
+
+## Hide log files
+*.log
+
+## Do not sync answers
+solved-*
+
+## Do not sync pipeline folders
+
+**/pipeline/**
+
+## Do not sync demonstrations
+*/raw_data/*
+*_complete.ipynb
+
+## Avoid syncing "dontsync" folders
+dontsync
+*/dontsync/*
+
+
+## Do not sync PowerPoint files
+*.ppt
+*.pptx
+
+## Other
+debug.log
+*.pyc
+*.chroma/*
+
+
+
+
