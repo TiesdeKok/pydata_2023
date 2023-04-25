@@ -12,13 +12,18 @@ To get started with the demonstration portion, click the button below!
 
 ## Links from presentation:  
 
-- https://medium.com/towards-data-science/beyond-chat-bots-the-power-of-prompt-based-gpt-models-for-downstream-nlp-tasks-21eff204d599     
-- SSRN LINK (TBD)
-- https://github.com/TiesdeKok/gllm_companion    
-- https://github.com/Significant-Gravitas/Auto-GPT    
-- https://github.com/hwchase17/langchain    
-- https://github.com/TiesdeKok/chat-gpt-jupyter-extension    
-- https://github.com/jupyterlab/jupyter-ai      
+- My Medium article:
+    - https://medium.com/towards-data-science/beyond-chat-bots-the-power-of-prompt-based-gpt-models-for-downstream-nlp-tasks-21eff204d599  
+- My working paper:   
+    - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429658  
+    - https://github.com/TiesdeKok/gllm_companion    
+- (Chat)GPT assistants for Jupyter:
+    - https://github.com/TiesdeKok/chat-gpt-jupyter-extension    
+    - https://github.com/jupyterlab/jupyter-ai      
+- Prompt chaining:
+    - https://github.com/Significant-Gravitas/Auto-GPT    
+    - https://github.com/hwchase17/langchain    
+
 
 
 
