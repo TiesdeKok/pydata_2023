@@ -10,6 +10,9 @@ To get started with the demonstration portion, click the button below!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TiesdeKok/pydata_2023/HEAD)
 
+## Recording link:
+https://youtu.be/CG3b6D3XNOE
+
 ## Links from presentation:  
 
 - My Medium article:
